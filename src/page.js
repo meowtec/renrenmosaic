@@ -3,7 +3,7 @@
  * the content srcipt.
  * 把人人好友的头像拼成自己的头像
  * author meowtec
- * blog http://www/meowtec.com/renrenmosaic
+ * blog http://www.meowtec.com/
  * date 2013/10/04
  */
 
