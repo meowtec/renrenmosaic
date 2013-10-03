@@ -13,5 +13,5 @@
         "matches": ["http://www.renren.com/*"],
         "run_at": "document_end"
     }],
-    "homepage_url":"http://www.meowtec.com/renrenmosaic"
+    "homepage_url":"http://www.meowtec.com/"
 }
