@@ -1,9 +1,9 @@
 /**
- * renrenFriendsFace 1.0 for Chrome
+ * renrenmosaic 1.0 for Chrome
  * the content srcipt.
  * 把人人好友的头像拼成自己的头像
  * author meowtec
- * blog http://www/meowtec.com
+ * blog http://www/meowtec.com/renrenmosaic
  * date 2013/10/04
  */
 

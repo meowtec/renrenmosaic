@@ -1,5 +1,5 @@
 ﻿{
-    "name": "人人好友头像生成",
+    "name": "renrenmosaic",
     "version": "1.0",
     "manifest_version": 2,
     "description": "把人人好友的头像拼成自己的头像",
@@ -13,5 +13,5 @@
         "matches": ["http://www.renren.com/*"],
         "run_at": "document_end"
     }],
-    "homepage_url":"http://www.meowtec.com"
+    "homepage_url":"http://www.meowtec.com/renrenmosaic"
 }
