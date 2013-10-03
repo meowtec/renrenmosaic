@@ -1,0 +1,17 @@
+﻿{
+    "name": "人人好友头像生成",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "把人人好友的头像拼成自己的头像",
+    "icons": {
+        "128": "icon.png"
+    },
+    "permissions": ["http://notify.renren.com/*","http://hdn.xnimg.cn/","http://friend.renren.com/*","http://head.xiaonei.com/*","http://www.renren.com/*"],
+    "content_scripts": [{
+        "css": ["page.css"],
+        "js": ["page.js"],
+        "matches": ["http://www.renren.com/*"],
+        "run_at": "document_end"
+    }],
+    "homepage_url":"http://www.meowtec.com"
+}
